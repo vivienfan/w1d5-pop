@@ -1,0 +1,23 @@
+{
+  "name": "popping-bottles",
+  "version": "1.0.0",
+  "description": "Problem Solving - Popping Bottles",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivienfan/w1d5-pop.git"
+  },
+  "author": "Vivien Fan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivienfan/w1d5-pop/issues"
+  },
+  "homepage": "https://github.com/vivienfan/w1d5-pop#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.3.0"
+  }
+}
