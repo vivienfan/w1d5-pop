@@ -16,7 +16,7 @@
     "url": "https://github.com/vivienfan/w1d5-pop/issues"
   },
   "homepage": "https://github.com/vivienfan/w1d5-pop#readme",
-  "dependencies": {
+  "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.3.0"
   }
